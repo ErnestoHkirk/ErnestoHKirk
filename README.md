@@ -1,23 +1,30 @@
 ### Hi there 👋
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<br/>
+:smiley: [LinkedIn](https://www.linkedin.com/in/ernesto-hooghkirk/)
+
+:computer: [Personal Site](https://ernestohkirk.github.io/portfolio/)
+
+:bookmark_tabs: [Resume](https://docs.google.com/document/d/1Dq-DSEiQFya2Lv4PPztRPCDTPa61EgMG361fVy-bors/edit?usp=sharing)
+
+### 🛠 Skills
+- **Programming Languages:** Python, JavaScript, Java, C++, C#, .NET, SQL
+- **Databases:** Firestore, MySQL,
+- **Web Tech:** React.js, Redux, Node.js, Express.js, HTML5, CSS3, jQuery, Bootstrap, JSON
+- **Architecture:** REST APIs, MVC, 
+- **Cloud:** Heroku, Firebase
+- **Web Frameworks** Entity Framework, Express.js
+- **React Frameworks** Semantic UI, Bootstrap, Material UI
+- **Libraries:** pandas, Beautiful Soup, NumPy, OpenCV
+- **Tools:** Git, Microsoft Excel, Visual Studio, VS Code
+- **Agile:** Scrum, Kanban    
+
 ### 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestohkirk&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestohkirk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestohkirk&layout=compact&theme=tokyonight)
+
 <br/>
-<!--
-**ErnestoHkirk/ErnestoHKirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "C'est en forgeant qu'on devient forgeron"
+> > It's by forging that one becomes a blacksmith
+― French Proverb
