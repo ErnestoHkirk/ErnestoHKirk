@@ -9,12 +9,11 @@
 ### 🛠 Skills
 - **Programming Languages:** Python, JavaScript, Java, C++, C#, .NET, SQL
 - **Databases:** Firestore, MySQL,
-- **Web Tech:** React.js, Redux, Node.js, Express.js, HTML5, CSS3, jQuery, Bootstrap, JSON
+- **Web Tech:** React.js, Redux, Node.js, Express.js, HTML5, CSS3, jQuery, JSON
 - **Architecture:** REST APIs, MVC, 
 - **Cloud:** Heroku, Firebase
 - **Web Frameworks** Entity Framework, Express.js
-- **React Frameworks** Semantic UI, Bootstrap, Material UI
-- **Libraries:** pandas, Beautiful Soup, NumPy, OpenCV
+- **React Frameworks** Semantic UI, Material UI, Bootstrap
 - **Tools:** Git, Microsoft Excel, Visual Studio, VS Code
 - **Agile:** Scrum, Kanban    
 
