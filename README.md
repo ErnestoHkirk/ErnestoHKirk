@@ -8,7 +8,7 @@
 
 :computer: [Personal Site](https://ernestohkirk.github.io/portfolio/)
 
-:bookmark_tabs: [Resume](https://docs.google.com/document/d/1Dq-DSEiQFya2Lv4PPztRPCDTPa61EgMG361fVy-bors/edit?usp=sharing)
+:bookmark_tabs: [Resume](https://drive.google.com/file/d/1W1Ba7towkPGBIGXdZyr-xmqAwL7xgvX-/view?usp=sharing)
 
 ### 🛠 Skills
 - **Programming Languages:** Python, JavaScript, Java, C++, C#, .NET, SQL
