@@ -6,9 +6,9 @@
 
 :smiley: [LinkedIn](https://www.linkedin.com/in/ernesto-hooghkirk/)
 
-:computer: :iphone: [Personal Site](https://drive.google.com/file/d/1gmgFygN_ZB0GAKcFgf2mXiDdrHNYRieP/view?usp=sharing)
+:computer: :iphone: [Personal Site](https://ernesto-h.dev/)
 
-:bookmark_tabs: [Resume](https://drive.google.com/file/d/1W1Ba7towkPGBIGXdZyr-xmqAwL7xgvX-/view?usp=sharing)
+:bookmark_tabs: [Resume](https://drive.google.com/file/d/1gmgFygN_ZB0GAKcFgf2mXiDdrHNYRieP/view?usp=sharing)
 
 ### 🛠 Skills
 - **Programming Languages:** Python, JavaScript, Java, C++, C#, .NET, SQL
