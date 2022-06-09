@@ -8,7 +8,7 @@
 
 :computer: :iphone: [Personal Site](https://ernesto-h.dev/)
 
-:bookmark_tabs: [Resume](https://drive.google.com/file/d/18dKCdAK9EPGYpYugJLt5NJDasSUH1VtD/view?usp=sharing)
+:bookmark_tabs: [Resume](https://drive.google.com/file/d/1zFhu29nNWVMTlMrZ1KxXFIdUvjni8ZKa/view?usp=sharing)
 
 ### 🛠 Skills
 - **Programming Languages:** Python, JavaScript, Java, C++, C#, .NET, SQL
