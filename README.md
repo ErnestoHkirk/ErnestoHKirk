@@ -2,7 +2,7 @@
 - Graduated with a Bachelor's in Computer Science from California State University, Fullerton January 2022.
 - 3 total years of professional experience working with software, maintaining and updating the Amazon Prime Video - Rotten Tomatoes Overlay Chrome extension.
 - Recently surpassed 3,700+ monthly active users 
-- Hands-on experience in full stack web development, designing responsive front end user interfaces and scalable back end solutions.
+- Hands-on experience in full stack web development, designing responsive front-end user interfaces and scalable back-end solutions.
 
 :smiley: [LinkedIn](https://www.linkedin.com/in/ernesto-hooghkirk/)
 
