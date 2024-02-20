@@ -1,6 +1,6 @@
 ### About 👋
 - 4.5 total years of professional work experience ★ ★ ★ ★ ✮
-- 1.5 years working as a software developer in industry, with a focus on AngularJS, .NET, JSP, SQL, Java Spring, JSP w/ JPA+Hibernate, and PHP.
+- 1.5 years working as a software developer in industry, with a focus on AngularJS, .NET, JSP, SQL, Java Spring, JavaBeans, JSP w/ JPA & Hibernate.
 - 3 years working with software & maintaining and updating the Amazon Prime Video - Rotten Tomatoes Overlay Chrome extension.
 - Recently surpassed 3,700+ monthly active users 
 - Hands-on experience in full stack web development, designing responsive front-end user interfaces and scalable back-end solutions.
