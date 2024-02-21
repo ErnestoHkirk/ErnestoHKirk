@@ -1,7 +1,7 @@
 ### About 👋
 - 4.5 total years of professional work experience ★ ★ ★ ★ ✮
 - 1.5 years working as a software developer in industry, with a focus on .NET, AngularJS, SQL, Java Spring, JavaBeans, JSP w/ JPA & Hibernate.
-- 3 years working with software & maintaining and updating the Amazon Prime Video - Rotten Tomatoes Overlay Chrome extension. Surpassed 3,700+ monthly active users at it's peak.
+- 3 years working with software & maintaining and updating the Amazon Prime Video - Rotten Tomatoes Overlay Chrome extension. Surpassed 4,500+ monthly active users at it's peak.
 - Hands-on experience in full stack web development, designing responsive front-end user interfaces and scalable back-end solutions.
 - Graduated with a Bachelor's in Computer Science from California State University, Fullerton January 2022.
 
