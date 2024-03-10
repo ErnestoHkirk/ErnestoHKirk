@@ -18,7 +18,7 @@
 - **Architecture:** REST APIs, MVC
 - **Cloud:** Microsoft Azure 
 - **Styling** Semantic UI, Material UI, Bootstrap, Tailwinds
-- **Tools:** Git, Microsoft Excel, Visual Studio, VS Code, Netbeans, SQL Server Management Studio
+- **Tools:** Git, Visual Studio, VS Code, Netbeans, SQL Server Management Studio
 
 ### 📊 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestohkirk&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
