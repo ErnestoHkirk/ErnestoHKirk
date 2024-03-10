@@ -12,7 +12,7 @@
 
 ### 🛠 Skills
 - **Languages:** JavaScript, Java, C++, C#, Python, SQL
-- **Web Frameworks** AngularJS, .NET, Entity Framework w/ LINQ, JPA w/ Hibernate, Express.js
+- **Web Frameworks** AngularJS, .NET, Entity Framework w/ LINQ
 - **Web Tech:** React.js, Node.js, Express.js, HTML5, CSS3, jQuery, JSON
 - **Databases:** Azure SQL Database
 - **Architecture:** REST APIs, MVC
