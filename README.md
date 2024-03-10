@@ -3,7 +3,7 @@
 - Currently working as software developer in industry with a focus on .NET, AngularJS, SQL, Java Spring, JavaBeans, JSP w/ JPA & Hibernate.
 - Created & supported a chrome extension, 'Amazon Prime Video - Rotten Tomatoes Overlay', which surpassed 3,500+ monthly active users while active.
 - Hands-on experience in full stack web development, designing responsive front-end user interfaces and scalable back-end solutions.
-- Graduated with a Bachelor's in Computer Science from California State University, Fullerton January 2022.
+- Graduated with a Bachelor's in Computer Science from California State University, Fullerton in January of 2022.
 
 :smiley: [LinkedIn](https://www.linkedin.com/in/ernesto-hooghkirk/)
 
