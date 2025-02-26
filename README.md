@@ -14,7 +14,7 @@
 - **Languages:** Java, JavaScript, C#, SQL, PHP
 - **Frameworks:** .NET, Hibernate, Entity Framework, AngularJS
 - **Technologies and Databases:** Microsoft Azure, SQL Server, MariaDB, Azure SQL DB
-- **Libraries & Misc:** RESTful API's, ReactJS, LINQ, JSON, HTML5, CSS3
+- **Libraries & Misc:** REST APIs, jQuery, ReactJS, JSON, HTML5, CSS3
 - **Styling** Semantic UI, Material UI, Bootstrap, Tailwinds
 - **Tools:** Git, SVN, Swagger, Docker, Postman, SSMS, Visual Studio, VS Code, NetBeans
 
