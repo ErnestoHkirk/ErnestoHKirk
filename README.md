@@ -12,11 +12,11 @@
 
 ### 🛠 Skills
 - **Languages:** Java, JavaScript, C#, SQL, PHP
-- **Frameworks:** .NET, Hibernate, Entity Framework, AngularJS
-- **Technologies and Databases:** Microsoft Azure, SQL Server, MariaDB, Azure SQL DB
-- **Libraries & Misc:** REST APIs, jQuery, ReactJS, JSON, HTML5, CSS3
-- **Styling** Semantic UI, Material UI, Bootstrap, Tailwinds
-- **Tools:** Git, SVN, Swagger, Docker, Postman, SSMS, Visual Studio, VS Code, NetBeans
+- **Frameworks & Libraries:** ReactJS, .NET Framework, Hibernate, Entity Framework
+- **Databases & Cloud:** SQL Server, MariaDB, Azure SQL DB, Microsoft Azure
+- **Front-End & Styling:** HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, Semantic UI, jQuery
+- **Tools:** Git, SVN, Swagger, Postman, Docker, SSMS, Visual Studio, VS Code, NetBeans
+- **APIs & Data:** RESTful APIs, JSON
 
 ### 📊 GitHub Stats
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestohkirk&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
