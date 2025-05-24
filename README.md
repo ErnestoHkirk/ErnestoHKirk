@@ -1,5 +1,5 @@
 ### About 👋
-- 2.5 years of experience working as a software developer in industry, with a focus on JPA w/ Hibernate & EJB & Java Swing, .NET Framework w/ AngularJS, SQL, Azure
+- 2.5 years of experience working as a software developer in industry, with a focus on ReactJS, JPA w/ Hibernate & EJB & Java Swing, .NET Framework, SQL, Azure
 - Created & supported the 'Amazon Prime Video - Rotten Tomatoes Overlay' chrome extension, which surpassed 3,500+ monthly active users while active.
 - Hands-on experience in full stack web and desktop application development, designing responsive front-end user interfaces and scalable back-end solutions.
 - Graduated with a Bachelor's in Computer Science from California State University, Fullerton in January of 2022.
