@@ -11,7 +11,7 @@
 :bookmark_tabs: [Resume](https://drive.google.com/file/d/1qi_EwOdwmaHG4CFaZEuapgx9OUED72dN/view?usp=sharing)
 
 ### 🛠 Skills
-- **Languages:** Java, JavaScript, C#, SQL, PHP
+- **Languages:** Java, C#, JavaScript, SQL, PHP
 - **Frameworks & Libraries:** ReactJS, .NET Framework, Hibernate, Entity Framework
 - **Databases & Cloud:** SQL Server, MariaDB, Azure SQL DB, Microsoft Azure
 - **Front-End & Styling:** HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, Semantic UI, jQuery
