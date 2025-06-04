@@ -1,6 +1,6 @@
 ### About 👋
-- 2.5 years of experience working as a software developer in industry, with a focus on ReactJS, JPA w/ Hibernate & EJB & Java Swing, .NET Framework, SQL, Azure
-- Created & supported the 'Amazon Prime Video - Rotten Tomatoes Overlay' chrome extension, which surpassed 3,500+ monthly active users while active.
+- ~3 years of experience working as a software developer in industry, with a focus on ReactJS, JPA w/ Hibernate & EJB & Java Swing, .NET Framework, SQL, Azure
+- Created & supported the 'Amazon Prime Video - Rotten Tomatoes Overlay' chrome extension, which surpassed 3,500+ monthly active users when active.
 - Hands-on experience in full stack web and desktop application development, designing responsive front-end user interfaces and scalable back-end solutions.
 - Graduated with a Bachelor's in Computer Science from California State University, Fullerton in January of 2022.
 
@@ -11,9 +11,9 @@
 :bookmark_tabs: [Resume](https://drive.google.com/file/d/1CdInIw23ny1L3VrxlTT4Xo5_6-m8qVYu/view)
 
 ### 🛠 Skills
-- **Languages:** Java, C#, JavaScript, SQL, PHP
+- **Languages:** Java, C#, JavaScript, SQL
 - **Frameworks & Libraries:** ReactJS, .NET Framework, Hibernate, Entity Framework
-- **Databases & Cloud:** SQL Server, MariaDB, Azure SQL DB, Microsoft Azure
+- **Databases & Cloud:** SQL Server, Azure SQL DB, Microsoft Azure
 - **Front-End & Styling:** HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, Semantic UI, jQuery
 - **Tools:** Git, SVN, Swagger, Postman, Docker, SSMS, Visual Studio, VS Code, NetBeans
 - **APIs & Data:** RESTful APIs, JSON
