@@ -12,7 +12,7 @@
 
 ### 🛠 Skills
 - **Languages:** Java 17, C#, JavaScript, SQL
-- **Frameworks & Libraries:** ReactJS, React Hooks, React-Redux, .NET Framework, Hibernate, Entity Framework
+- **Frameworks & Libraries:** ReactJS, React Hooks, React-Redux, .NET Framework, Entity Framework, Hibernate, Jakarata EE
 - **Databases & Cloud:** SQL Server, Azure SQL DB, Microsoft Azure
 - **Front-End & Styling:** HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, Semantic UI, jQuery
 - **Tools:** Git, SVN, Swagger, Postman, Docker, SSMS, Visual Studio, VS Code, NetBeans
