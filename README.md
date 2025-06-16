@@ -11,8 +11,8 @@
 :bookmark_tabs: [Resume](https://drive.google.com/file/d/1wUJLXFkOlE9hTpvSzR6Fu11-J4DhR-nN/view)
 
 ### 🛠 Skills
-- **Languages:** Java, C#, JavaScript, SQL
-- **Frameworks & Libraries:** ReactJS, .NET Framework, Hibernate, Entity Framework
+- **Languages:** Java 17, C#, JavaScript, SQL
+- **Frameworks & Libraries:** ReactJS, React Hooks, React-Redux, .NET Framework, Hibernate, Entity Framework
 - **Databases & Cloud:** SQL Server, Azure SQL DB, Microsoft Azure
 - **Front-End & Styling:** HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, Semantic UI, jQuery
 - **Tools:** Git, SVN, Swagger, Postman, Docker, SSMS, Visual Studio, VS Code, NetBeans
