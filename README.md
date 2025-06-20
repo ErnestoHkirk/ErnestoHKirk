@@ -1,3 +1,7 @@
+> *"C'est en forgeant qu'on devient forgeron"*  
+> *It’s by forging that one becomes a blacksmith.*  
+> — French Proverb
+
 ### About 👋
 - ~3 years of experience working as a software developer in industry, with a focus on ReactJS, .NET Framework, JPA w/ Hibernate & Jakarata EE, SQL, Azure
 - Created & supported the 'Amazon Prime Video - Rotten Tomatoes Overlay' chrome extension, which surpassed 3,500+ monthly active users when active.
@@ -25,6 +29,3 @@
 
 <br/>
 
-> "C'est en forgeant qu'on devient forgeron"
-> > It's by forging that one becomes a blacksmith
-― French Proverb
