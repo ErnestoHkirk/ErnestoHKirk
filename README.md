@@ -12,11 +12,11 @@
 
 ### 🛠 Skills
 - **Languages:** Java 17, C#, JavaScript, SQL
-- **Frameworks & Libraries:** ReactJS, React Hooks, React-Redux, .NET Framework, Entity Framework, Hibernate, Jakarata EE
-- **Databases & Cloud:** SQL Server, Azure SQL DB, Microsoft Azure
-- **Front-End & Styling:** HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, Semantic UI, jQuery
-- **Tools:** Git, SVN, Swagger, Postman, Docker, SSMS, Visual Studio, VS Code, NetBeans
-- **APIs & Data:** RESTful APIs, JSON
+- **Frontend Frameworks:** ReactJS, React Hooks, React‐Redux, AngularJS
+- **Backend Frameworks & ORMs:** .NET (7 & Framework), Entity Framework, Hibernate, Jakarta EE
+- **Databases & Cloud:** SQL Server, Azure SQL Database, Microsoft Azure
+- **Tools:** Git, Postman, Swagger, SSMS, Visual Studio, VS Code
+- **Web & Misc Technologies:** HTML5, CSS3, JSON, RESTful APIs
 
 ### 📊 GitHub Stats
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestohkirk&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
