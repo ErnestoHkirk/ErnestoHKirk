@@ -8,7 +8,7 @@
 
 :computer: :iphone: [Personal Site](https://ernesto-h.dev/)
 
-:bookmark_tabs: [Resume](https://drive.google.com/file/d/1wUJLXFkOlE9hTpvSzR6Fu11-J4DhR-nN/view)
+:bookmark_tabs: [Resume](https://drive.google.com/file/d/1x6fYyO-uMf4io1GiouY9oJciojZTvw7W/view)
 
 ### 🛠 Skills
 - **Languages:** Java 17, C#, JavaScript, SQL
