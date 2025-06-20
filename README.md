@@ -4,7 +4,7 @@
 
 ### About 👋
 - ~3 years of experience working as a software developer in industry, with a focus on ReactJS, .NET Framework, JPA w/ Hibernate & Jakarata EE, SQL, Azure
-- Created & supported the 'Amazon Prime Video - Rotten Tomatoes Overlay' chrome extension, which surpassed 3,500+ monthly active users (2019-2022)
+- Created & supported the 'Amazon Prime Video - Rotten Tomatoes Overlay' chrome extension, which surpassed 3,500 monthly active users (2019-2022)
 - Hands-on experience in full stack web and desktop application development, designing responsive front-end user interfaces and scalable back-end solutions.
 - Graduated with a Bachelor's in Computer Science from California State University, Fullerton in January of 2022.
 
